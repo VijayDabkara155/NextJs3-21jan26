@@ -40,3 +40,28 @@ a {
     color-scheme: dark;
   }
 }
+
+.travelHeader {
+  height: 119px;
+  border: 1px solid rgb(208, 22, 22);
+}
+.travelMain {
+  height: 470px;
+  border: 1px solid rgb(241, 10, 10);
+}
+.travelFooter {
+  height: 1500px;
+  border: 1px solid rgb(241, 10, 10);
+}
+.obpHeader {
+  height: 58px;
+  border: 1px dashed rgb(22, 208, 108);
+}
+.obpMain {
+  height: 500px;
+  border: 1px dashed rgb(22, 208, 108);
+}
+.obpFooter {
+  height: 1500px;
+  border: 1px dashed rgb(22, 208, 108);
+}
